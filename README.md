@@ -2,6 +2,8 @@
 
 This is a task manager designed to help you organize your daily activities.
 
+## [View the project here](https://task-manager-fmua1f7vf-davi-oliveiras-projects-e6ff4a19.vercel.app/) ##
+
 ## Glossary
 
 - [Overview](#overview)
